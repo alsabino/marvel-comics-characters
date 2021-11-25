@@ -1,0 +1,12 @@
+user:
+  #look for Marvel-API public and private keys on Google for more information of how get it, they are free.
+  publicKey: [public-key] 
+  privateKey: [private-key]
+
+marvel:
+  domain:  https://gateway.marvel.com:443
+  charactersPath: /v1/public/characters
+  
+ibm:
+  apiKey: L-NUtzaBtDOnprIgZVnffBbQlZK_9bpXaAmMBUUkdS6N
+  serviceUrl: https://api.au-syd.language-translator.watson.cloud.ibm.com/instances/03037f29-2e72-4bfd-8b7f-5b9c3b94424d
